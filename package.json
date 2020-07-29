@@ -1,0 +1,21 @@
+{
+  "name": "small-image",
+  "version": "1.0.14",
+  "main": "index.js",
+  "bin": {
+    "small-image": "index.js"
+  },
+  "author": {
+    "name": "huangxiaojie",
+    "email": "h_xj2019@163.com"
+  },
+  "description": "compress image",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-jpegtran": "^6.0.0",
+    "imagemin-pngquant": "^8.0.0"
+  },
+  "devDependencies": {},
+  "keywords": ["image", "min", "compress"]
+}
